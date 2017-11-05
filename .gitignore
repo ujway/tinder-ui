@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+.idea/
+.expo/
+npm-debug.log
+testings/
